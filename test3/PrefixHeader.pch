@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  test3
+//
+//  Created by 王迎博 on 15/11/30.
+//  Copyright © 2015年 王迎博. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define KKK @"第三次测试信息"
+#import "codeObfuscation.h"
+
+#endif /* PrefixHeader_pch */
